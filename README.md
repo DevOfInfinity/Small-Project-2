@@ -2,7 +2,7 @@
 
 This is one small work use HTML, CSS.
 
-Link:
+Link: https://devofinfinity.github.io/Small-Project-2/
 
 Pc Screen
 <img src="./img/Easy Shop.png" alt="Face Project Small 2">
